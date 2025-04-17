@@ -1,0 +1,41 @@
+*{
+    background-color: lightblue;
+}
+
+.red-rect{
+    background-color: #D00C33;
+    height: 200px;
+    width: 600px;
+   
+}
+
+.white-rect{
+    background-color: #ffffff;
+    height:200px;
+    width: 600px;;
+}
+
+.circlee{
+    background-color:  #ffffff;
+    height: 266.666667px;
+    width: 266.666667px;
+    border-radius: 50%;
+    position:absolute;
+    top: 66.66666667px;
+    left: 100px;
+    overflow: hidden;
+}
+
+
+.red-part{
+    background-color: #D00C33;
+    height: 60%;
+    width: 100%;
+    margin-top: -18px;
+}
+
+h1{
+    width: 600px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
